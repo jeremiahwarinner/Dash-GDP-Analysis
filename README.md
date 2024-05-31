@@ -38,6 +38,6 @@ Follow these steps to run and use the Gapminder Data Dashboard:
 - **Bubble Size:** The size of each bubble represents the population of the country, providing an additional dimension of information.
 - **Hover Information:** Hover over any point to see detailed information about the country, including the name, GDP per capita, and life expectancy.
 
-## User-Friendly Interface
+### User-Friendly Interface
 - **Title and Labels:** Clear titles and labels make the dashboard easy to understand and navigate.
 - **Responsive Design:** The dashboard layout adjusts to different screen sizes, ensuring a good user experience on both desktop and mobile devices.
