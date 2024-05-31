@@ -41,3 +41,8 @@ Follow these steps to run and use the Gapminder Data Dashboard:
 ### User-Friendly Interface
 - **Title and Labels:** Clear titles and labels make the dashboard easy to understand and navigate.
 - **Responsive Design:** The dashboard layout adjusts to different screen sizes, ensuring a good user experience on both desktop and mobile devices.
+## Demo
+
+https://github.com/jeremiahwarinner/Dash-GDP-Analysis/assets/158241209/3bb80ab3-5efa-4197-9cd4-73ee56fbfd59
+
+
